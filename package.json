@@ -1,5 +1,5 @@
 {
-  "name": "varnames",
+  "name": "variablenames",
   "version": "1.0.0",
   "description": "A simple utility to output css variables from a dictionary",
   "author": "Dylan Larsen",
