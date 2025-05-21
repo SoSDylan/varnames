@@ -1,0 +1,29 @@
+{
+  "name": "varnames",
+  "version": "1.0.0",
+  "description": "A simple utility to output css variables from a dictionary",
+  "author": "Dylan Larsen",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node --test ./test.js"
+  },
+  "keywords": [
+    "css",
+    "var",
+    "variables",
+    "varnames",
+    "util",
+    "utility"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoSDylan/varnames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoSDylan/varnames/issues"
+  },
+  "homepage": "https://github.com/SoSDylan/varnames#readme"
+}
